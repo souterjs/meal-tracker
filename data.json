@@ -555,6 +555,21 @@
         "zinc": 2,
         "potassium": 420,
         "imgSrc": null
+      },
+      {
+        "name": "Heavenly Organics double dark chocolate honey patties (3)",
+        "mealType": "Snack",
+        "cal": 160,
+        "protein": 3,
+        "carbs": 18,
+        "fat": 9,
+        "fiber": 4,
+        "sodium": 0,
+        "sugar": 11,
+        "satfat": 6,
+        "zinc": 1,
+        "potassium": 200,
+        "imgSrc": null
       }
     ]
   },
