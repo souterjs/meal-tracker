@@ -357,7 +357,7 @@
     ],
     "2026-5-12": [
       {
-        "name": "Protein shake \u2014 Just Ingredients whey, wild blueberries, almond milk & creatine",
+        "name": "Protein shake — Just Ingredients whey, wild blueberries, almond milk & creatine",
         "mealType": "Breakfast",
         "cal": 415,
         "protein": 50,
@@ -464,7 +464,7 @@
     ],
     "2026-5-13": [
       {
-        "name": "Protein shake \u2014 Just Ingredients whey, almond milk, creatine & EVOO",
+        "name": "Protein shake — Just Ingredients whey, almond milk, creatine & EVOO",
         "mealType": "Breakfast",
         "cal": 455,
         "protein": 49,
@@ -494,7 +494,7 @@
         "imgSrc": null
       },
       {
-        "name": "3 fried corn tortillas w/ refried beans, cheddar, pickled jalape\u00f1o, Better Booch & grapefruit",
+        "name": "3 fried corn tortillas w/ refried beans, cheddar, pickled jalapeño, Better Booch & grapefruit",
         "mealType": "Lunch",
         "cal": 745,
         "protein": 23,
@@ -527,22 +527,7 @@
     "2026-5-14": {},
     "2026-5-15": [
       {
-        "name": "Egg white & chicken sausage breakfast sandwich on English muffin with Havarti",
-        "mealType": "Breakfast",
-        "cal": 235,
-        "protein": 21,
-        "carbs": 14,
-        "fat": 10,
-        "fiber": 1,
-        "sodium": 380,
-        "sugar": 0,
-        "satfat": 4,
-        "zinc": 1,
-        "potassium": 220,
-        "imgSrc": null
-      },
-      {
-        "name": "Protein shake \u2014 whey, creatine, EVOO (2tbsp), pecans & blueberries",
+        "name": "Protein shake — whey, creatine, EVOO (2tbsp), pecans & blueberries",
         "mealType": "Breakfast",
         "cal": 827,
         "protein": 52,
@@ -595,7 +580,7 @@
       "remChol": 10.97,
       "totalT": 612,
       "freeT": 95.07,
-      "estrogen": 40.0,
+      "estrogen": 40,
       "shbg": 49.3,
       "freeT3": 4.12,
       "tsh": 1.98,
