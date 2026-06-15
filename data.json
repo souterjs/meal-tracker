@@ -570,6 +570,21 @@
         "zinc": 1,
         "potassium": 200,
         "imgSrc": null
+      },
+      {
+        "name": "Chicken salad sandwich \u2014 Kirkland chicken, mayo, Greek yogurt, pickles, Sycamore honey wheat & Cholula",
+        "mealType": "Lunch",
+        "cal": 660,
+        "protein": 30,
+        "carbs": 36,
+        "fat": 43,
+        "fiber": 2,
+        "sodium": 820,
+        "sugar": 4,
+        "satfat": 9,
+        "zinc": 1,
+        "potassium": 320,
+        "imgSrc": null
       }
     ]
   },
