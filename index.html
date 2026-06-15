@@ -261,6 +261,16 @@ input:focus,select:focus{border-color:var(--color-border-primary)}
       <div class="settings-field"><label>Carbs (g)</label><input type="number" id="target-carbs" value="240" step="5" onchange="renderLog()"></div>
       <div class="settings-field"><label>Fat (g)</label><input type="number" id="target-fat" value="80" step="5" onchange="renderLog()"></div>
     </div>
+    <div class="settings-grid" style="margin-top:12px">
+      <div class="settings-field" style="grid-column:span 2">
+        <label>GitHub Token <span style="font-weight:400;color:var(--color-text-tertiary)">(stored locally, never shared)</span></label>
+        <div style="display:flex;gap:8px">
+          <input type="password" id="gh-token-input" placeholder="ghp_..." style="flex:1" value="">
+          <button class="btn-sec" onclick="saveGhToken()" style="flex-shrink:0;white-space:nowrap">Save token</button>
+        </div>
+        <div id="gh-token-status" style="font-size:11px;color:var(--color-text-tertiary);margin-top:4px"></div>
+      </div>
+    </div>
     <div class="settings-actions">
       <button class="btn-sec" onclick="toggleSettings()">Done</button>
     </div>
@@ -425,9 +435,9 @@ function getDayLabel(offset){
 }
 
 // ── GITHUB DATA LAYER ────────────────────────────────────────────────────────
-const GH_TOKEN = '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';
 const GH_REPO  = 'souterjs/meal-tracker';
 const GH_DATA_PATH = 'data.json';
+function getToken(){ return localStorage.getItem('gh_token') || ''; }
 let   ghDataCache = null;
 let   ghDataSha   = null;
 let   ghSaveTimer = null;
@@ -436,7 +446,7 @@ async function ghLoad() {
   if (ghDataCache) return ghDataCache;
   try {
     const resp = await fetch(`https://api.github.com/repos/${GH_REPO}/contents/${GH_DATA_PATH}`, {
-      headers: { Authorization: `token ${GH_TOKEN}`, Accept: 'application/vnd.github.v3+json' }
+      headers: { Authorization: `token ${getToken()}`, Accept: 'application/vnd.github.v3+json' }
     });
     if (resp.status === 404) { ghDataCache = {}; return ghDataCache; }
     const json = await resp.json();
@@ -458,7 +468,7 @@ async function ghSave() {
     if (ghDataSha) body.sha = ghDataSha;
     const resp = await fetch(`https://api.github.com/repos/${GH_REPO}/contents/${GH_DATA_PATH}`, {
       method: 'PUT',
-      headers: { Authorization: `token ${GH_TOKEN}`, Accept: 'application/vnd.github.v3+json', 'Content-Type': 'application/json' },
+      headers: { Authorization: `token ${getToken()}`, Accept: 'application/vnd.github.v3+json', 'Content-Type': 'application/json' },
       body: JSON.stringify(body)
     });
     const json = await resp.json();
@@ -488,7 +498,22 @@ function saveLogs(l){saveData('mt_logs',l);}
 function getFavs(){return loadData('mt_favs')||[];}
 function saveFavs(f){saveData('mt_favs',f);}
 
-function toggleSettings(){document.getElementById('settings-panel').classList.toggle('hidden');}
+function toggleSettings(){
+  document.getElementById('settings-panel').classList.toggle('hidden');
+  const t = getToken();
+  document.getElementById('gh-token-input').value = t ? '••••••••••••••••' : '';
+  document.getElementById('gh-token-status').textContent = t ? '✓ Token saved — data syncing to GitHub' : 'No token — data saved locally only';
+  document.getElementById('gh-token-status').style.color = t ? 'var(--color-text-success)' : 'var(--color-text-tertiary)';
+}
+function saveGhToken(){
+  const val = document.getElementById('gh-token-input').value.trim();
+  if(!val || val.startsWith('•')) return;
+  localStorage.setItem('gh_token', val);
+  ghDataCache = null; ghDataSha = null;
+  document.getElementById('gh-token-status').textContent = '✓ Token saved — reloading data...';
+  document.getElementById('gh-token-status').style.color = 'var(--color-text-success)';
+  ghLoad().then(()=>{renderLog();renderPlan();});
+}
 function switchTab(t){
   document.querySelectorAll('.tab').forEach(b=>b.classList.remove('active'));
   document.querySelectorAll('.section').forEach(s=>s.classList.remove('active'));
