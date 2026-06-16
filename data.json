@@ -632,6 +632,21 @@
         "zinc": 1,
         "potassium": 680,
         "imgSrc": null
+      },
+      {
+        "name": "Better Booch Strawberry Lemonade kombucha",
+        "mealType": "Snack",
+        "cal": 35,
+        "protein": 0,
+        "carbs": 8,
+        "fat": 0,
+        "fiber": 0,
+        "sodium": 10,
+        "sugar": 0,
+        "satfat": 0,
+        "zinc": 0,
+        "potassium": 0,
+        "imgSrc": null
       }
     ]
   },
