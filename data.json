@@ -600,6 +600,21 @@
         "zinc": 0,
         "potassium": 80,
         "imgSrc": null
+      },
+      {
+        "name": "Kirkland breaded chicken taco \u2014 flour tortilla, Greek yogurt, salsa & pickles",
+        "mealType": "Dinner",
+        "cal": 405,
+        "protein": 29,
+        "carbs": 43,
+        "fat": 11,
+        "fiber": 2,
+        "sodium": 970,
+        "sugar": 1,
+        "satfat": 3,
+        "zinc": 1,
+        "potassium": 320,
+        "imgSrc": null
       }
     ]
   },
