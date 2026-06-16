@@ -616,6 +616,23 @@
         "potassium": 320,
         "imgSrc": null
       }
+    ],
+    "2026-5-16": [
+      {
+        "name": "Steel cut oats with wild blueberries, pecans, almond milk, EVOO & banana",
+        "mealType": "Breakfast",
+        "cal": 712,
+        "protein": 12,
+        "carbs": 82,
+        "fat": 40,
+        "fiber": 14,
+        "sodium": 90,
+        "sugar": 0,
+        "satfat": 3,
+        "zinc": 1,
+        "potassium": 680,
+        "imgSrc": null
+      }
     ]
   },
   "mt_labs": [
