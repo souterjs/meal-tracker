@@ -647,6 +647,21 @@
         "zinc": 0,
         "potassium": 0,
         "imgSrc": null
+      },
+      {
+        "name": "Chicken bowl \u2014 refried beans, Mexican rice, salsa, chicken salad & baby spinach",
+        "mealType": "Lunch",
+        "cal": 960,
+        "protein": 65,
+        "carbs": 87,
+        "fat": 35,
+        "fiber": 7,
+        "sodium": 900,
+        "sugar": 2,
+        "satfat": 7,
+        "zinc": 3,
+        "potassium": 980,
+        "imgSrc": null
       }
     ]
   },
