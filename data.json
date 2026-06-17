@@ -709,6 +709,21 @@
         "zinc": 3,
         "potassium": 820,
         "imgSrc": null
+      },
+      {
+        "name": "Watermelon (2 slices)",
+        "mealType": "Snack",
+        "cal": 85,
+        "protein": 2,
+        "carbs": 21,
+        "fat": 0,
+        "fiber": 1,
+        "sodium": 0,
+        "sugar": 0,
+        "satfat": 0,
+        "zinc": 0,
+        "potassium": 270,
+        "imgSrc": null
       }
     ]
   },
