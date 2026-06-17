@@ -662,6 +662,21 @@
         "zinc": 3,
         "potassium": 980,
         "imgSrc": null
+      },
+      {
+        "name": "Costco shrimp (6oz), cottage cheese (1 cup) & blueberries (1 cup)",
+        "mealType": "Dinner",
+        "cal": 445,
+        "protein": 62,
+        "carbs": 29,
+        "fat": 7,
+        "fiber": 3,
+        "sodium": 450,
+        "sugar": 0,
+        "satfat": 3,
+        "zinc": 2,
+        "potassium": 620,
+        "imgSrc": null
       }
     ]
   },
