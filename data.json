@@ -694,6 +694,21 @@
         "zinc": 1,
         "potassium": 720,
         "imgSrc": null
+      },
+      {
+        "name": "Kirkland chicken sausage, Tasty Bite Madras Lentils, shrimp (6) & protein shake",
+        "mealType": "Lunch",
+        "cal": 850,
+        "protein": 92,
+        "carbs": 45,
+        "fat": 33,
+        "fiber": 12,
+        "sodium": 1600,
+        "sugar": 0,
+        "satfat": 9,
+        "zinc": 3,
+        "potassium": 820,
+        "imgSrc": null
       }
     ]
   },
