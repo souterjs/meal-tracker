@@ -771,6 +771,21 @@
         "zinc": 2,
         "potassium": 980,
         "imgSrc": null
+      },
+      {
+        "name": "RXBAR Protein Energy Bites Strawberry Peanut Butter",
+        "mealType": "Snack",
+        "cal": 210,
+        "protein": 10,
+        "carbs": 23,
+        "fat": 11,
+        "fiber": 4,
+        "sodium": 115,
+        "sugar": 1,
+        "satfat": 2.5,
+        "zinc": 0,
+        "potassium": 360,
+        "imgSrc": null
       }
     ]
   },
