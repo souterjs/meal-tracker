@@ -756,6 +756,21 @@
         "zinc": 1,
         "potassium": 720,
         "imgSrc": null
+      },
+      {
+        "name": "Leftover salmon with sweet potato fries & steamed broccoli",
+        "mealType": "Lunch",
+        "cal": 560,
+        "protein": 55,
+        "carbs": 52,
+        "fat": 20,
+        "fiber": 7,
+        "sodium": 150,
+        "sugar": 0,
+        "satfat": 3,
+        "zinc": 2,
+        "potassium": 980,
+        "imgSrc": null
       }
     ]
   },
