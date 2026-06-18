@@ -740,6 +740,23 @@
         "potassium": 980,
         "imgSrc": null
       }
+    ],
+    "2026-5-18": [
+      {
+        "name": "Steel cut oats, wild blueberries, green grapes, pecans, almond milk, EVOO, banana & kombucha",
+        "mealType": "Breakfast",
+        "cal": 802,
+        "protein": 12,
+        "carbs": 104,
+        "fat": 40,
+        "fiber": 15,
+        "sodium": 75,
+        "sugar": 0,
+        "satfat": 3,
+        "zinc": 1,
+        "potassium": 720,
+        "imgSrc": null
+      }
     ]
   },
   "mt_labs": [
