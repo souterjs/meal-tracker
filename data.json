@@ -724,6 +724,21 @@
         "zinc": 0,
         "potassium": 270,
         "imgSrc": null
+      },
+      {
+        "name": "Roasted salmon (5.5oz) with sweet potato fries & steamed broccoli",
+        "mealType": "Dinner",
+        "cal": 560,
+        "protein": 55,
+        "carbs": 52,
+        "fat": 20,
+        "fiber": 7,
+        "sodium": 150,
+        "sugar": 0,
+        "satfat": 3,
+        "zinc": 2,
+        "potassium": 980,
+        "imgSrc": null
       }
     ]
   },
