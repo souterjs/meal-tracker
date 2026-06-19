@@ -818,6 +818,21 @@
         "zinc": 1,
         "potassium": 420,
         "imgSrc": null
+      },
+      {
+        "name": "Chicken satay (4 skewers) with peanut sauce & cucumber salad",
+        "mealType": "Lunch",
+        "cal": 420,
+        "protein": 43,
+        "carbs": 17,
+        "fat": 20,
+        "fiber": 1,
+        "sodium": 450,
+        "sugar": 2,
+        "satfat": 3,
+        "zinc": 2,
+        "potassium": 480,
+        "imgSrc": null
       }
     ]
   },
