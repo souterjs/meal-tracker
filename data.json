@@ -787,6 +787,23 @@
         "potassium": 360,
         "imgSrc": null
       }
+    ],
+    "2026-5-19": [
+      {
+        "name": "Protein shake \u2014 Just Ingredients whey, creatine, EVOO, pecans & almond milk",
+        "mealType": "Breakfast",
+        "cal": 707,
+        "protein": 52,
+        "carbs": 11,
+        "fat": 42,
+        "fiber": 4,
+        "sodium": 160,
+        "sugar": 0,
+        "satfat": 1,
+        "zinc": 2,
+        "potassium": 420,
+        "imgSrc": null
+      }
     ]
   },
   "mt_labs": [
