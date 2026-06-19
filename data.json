@@ -803,6 +803,21 @@
         "zinc": 2,
         "potassium": 420,
         "imgSrc": null
+      },
+      {
+        "name": "Thai fresh shrimp spring rolls (4) with peanut dipping sauce",
+        "mealType": "Lunch",
+        "cal": 470,
+        "protein": 21,
+        "carbs": 56,
+        "fat": 18,
+        "fiber": 4,
+        "sodium": 500,
+        "sugar": 3,
+        "satfat": 2,
+        "zinc": 1,
+        "potassium": 420,
+        "imgSrc": null
       }
     ]
   },
