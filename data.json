@@ -865,6 +865,21 @@
         "zinc": 2,
         "potassium": 680,
         "imgSrc": null
+      },
+      {
+        "name": "Biscoff cookie (airline snack)",
+        "mealType": "Snack",
+        "cal": 70,
+        "protein": 1,
+        "carbs": 10,
+        "fat": 3,
+        "fiber": 0,
+        "sodium": 45,
+        "sugar": 4,
+        "satfat": 1,
+        "zinc": 0,
+        "potassium": 10,
+        "imgSrc": null
       }
     ]
   },
