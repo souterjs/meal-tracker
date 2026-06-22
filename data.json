@@ -850,6 +850,21 @@
         "zinc": 3,
         "potassium": 860,
         "imgSrc": null
+      },
+      {
+        "name": "Smoked turkey sandwich on sourdough & Chobani 20g protein drink",
+        "mealType": "Lunch",
+        "cal": 620,
+        "protein": 48,
+        "carbs": 57,
+        "fat": 17,
+        "fiber": 2,
+        "sodium": 920,
+        "sugar": 0,
+        "satfat": 3,
+        "zinc": 2,
+        "potassium": 680,
+        "imgSrc": null
       }
     ]
   },
