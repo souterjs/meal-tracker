@@ -895,6 +895,21 @@
         "zinc": 3,
         "potassium": 500,
         "imgSrc": null
+      },
+      {
+        "name": "Go Greek small chocolate yogurt bowl with cocoa nibs & honey roasted almonds",
+        "mealType": "Snack",
+        "cal": 310,
+        "protein": 16,
+        "carbs": 29,
+        "fat": 15,
+        "fiber": 2,
+        "sodium": 80,
+        "sugar": 4,
+        "satfat": 2,
+        "zinc": 1,
+        "potassium": 280,
+        "imgSrc": null
       }
     ]
   },
