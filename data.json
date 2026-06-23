@@ -880,6 +880,21 @@
         "zinc": 0,
         "potassium": 10,
         "imgSrc": null
+      },
+      {
+        "name": "Sushi Maki nigiri (12 pieces)",
+        "mealType": "Dinner",
+        "cal": 600,
+        "protein": 48,
+        "carbs": 96,
+        "fat": 8,
+        "fiber": 2,
+        "sodium": 800,
+        "sugar": 1,
+        "satfat": 2,
+        "zinc": 3,
+        "potassium": 500,
+        "imgSrc": null
       }
     ]
   },
