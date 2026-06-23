@@ -942,6 +942,21 @@
         "zinc": 3,
         "potassium": 900,
         "imgSrc": null
+      },
+      {
+        "name": "Nature Valley Cinnamon Almond Butter Biscuits (1 pouch)",
+        "mealType": "Snack",
+        "cal": 190,
+        "protein": 4,
+        "carbs": 23,
+        "fat": 10,
+        "fiber": 2,
+        "sodium": 135,
+        "sugar": 8,
+        "satfat": 2,
+        "zinc": 0,
+        "potassium": 100,
+        "imgSrc": null
       }
     ]
   },
