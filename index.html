@@ -853,7 +853,7 @@ function openAddModal(favMode=false, mealType=null){
   document.getElementById('modal-title-text').textContent=favMode?'Add favorite':'Log a meal';
   document.getElementById('modal-save-btn').textContent=favMode?'Save favorite':'Add to log';
   ['modal-name','modal-cal','modal-protein','modal-carbs','modal-fat','modal-fiber','modal-sodium','modal-sugar','modal-satfat'].forEach(id=>document.getElementById(id).value='');
-  document.getElementById('modal-save-fav').checked=favMode;
+  if(document.getElementById('modal-save-fav')) document.getElementById('modal-save-fav').checked=favMode;
   document.getElementById('photo-preview').classList.add('hidden');
   document.getElementById('ai-status').classList.add('hidden');
   document.getElementById('photo-zone').style.display='';
