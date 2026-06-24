@@ -957,6 +957,21 @@
         "zinc": 0,
         "potassium": 100,
         "imgSrc": null
+      },
+      {
+        "name": "Rice Mediterranean chicken joojeh platter with basmati, Greek salad, hummus, pita & 7 dolmeh",
+        "mealType": "Dinner",
+        "cal": 1100,
+        "protein": 61,
+        "carbs": 111,
+        "fat": 43,
+        "fiber": 8,
+        "sodium": 900,
+        "sugar": 1,
+        "satfat": 6,
+        "zinc": 3,
+        "potassium": 820,
+        "imgSrc": null
       }
     ]
   },
