@@ -1020,6 +1020,23 @@
         "potassium": 900,
         "imgSrc": null
       }
+    ],
+    "2026-5-25": [
+      {
+        "name": "Oh No Bagels \u2014 jalape\u00f1o cheddar + 2 cinnamon sugar bagels w/ strawberry cream cheese",
+        "mealType": "Breakfast",
+        "cal": 1440,
+        "protein": 41,
+        "carbs": 205,
+        "fat": 44,
+        "fiber": 6,
+        "sodium": 1200,
+        "sugar": 20,
+        "satfat": 25,
+        "zinc": 2,
+        "potassium": 380,
+        "imgSrc": null
+      }
     ]
   },
   "mt_labs": [
