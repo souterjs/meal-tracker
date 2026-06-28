@@ -1085,6 +1085,23 @@
         "potassium": 480,
         "imgSrc": null
       }
+    ],
+    "2026-5-28": [
+      {
+        "name": "Pretzel bagel with egg whites, egg, cheddar, chicken sausage, Rainier cherries & Humm kombucha",
+        "mealType": "Breakfast",
+        "cal": 760,
+        "protein": 52,
+        "carbs": 92,
+        "fat": 22,
+        "fiber": 2,
+        "sodium": 650,
+        "sugar": 0,
+        "satfat": 8,
+        "zinc": 2,
+        "potassium": 480,
+        "imgSrc": null
+      }
     ]
   },
   "mt_labs": [
