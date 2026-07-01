@@ -1133,6 +1133,21 @@
         "zinc": 2,
         "potassium": 620,
         "imgSrc": null
+      },
+      {
+        "name": "Mixed nuts (2 handfuls), banana & popcorn (handful)",
+        "mealType": "Snack",
+        "cal": 520,
+        "protein": 12,
+        "carbs": 51,
+        "fat": 35,
+        "fiber": 7,
+        "sodium": 150,
+        "sugar": 0,
+        "satfat": 4,
+        "zinc": 2,
+        "potassium": 580,
+        "imgSrc": null
       }
     ]
   },
