@@ -1102,6 +1102,23 @@
         "potassium": 480,
         "imgSrc": null
       }
+    ],
+    "2026-6-1": [
+      {
+        "name": "Protein shake (1 scoop whey, creatine), half banana & Humm Mango Passionfruit kombucha",
+        "mealType": "Breakfast",
+        "cal": 240,
+        "protein": 25,
+        "carbs": 25,
+        "fat": 4,
+        "fiber": 1,
+        "sodium": 110,
+        "sugar": 0,
+        "satfat": 0,
+        "zinc": 1,
+        "potassium": 260,
+        "imgSrc": null
+      }
     ]
   },
   "mt_labs": [
