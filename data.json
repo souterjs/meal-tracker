@@ -1118,6 +1118,21 @@
         "zinc": 1,
         "potassium": 260,
         "imgSrc": null
+      },
+      {
+        "name": "Pretzel bagel with avocado, tomato, ham, pickled habanero & hummus",
+        "mealType": "Lunch",
+        "cal": 600,
+        "protein": 25,
+        "carbs": 75,
+        "fat": 22,
+        "fiber": 6,
+        "sodium": 1280,
+        "sugar": 0,
+        "satfat": 3,
+        "zinc": 2,
+        "potassium": 620,
+        "imgSrc": null
       }
     ]
   },
