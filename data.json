@@ -1148,6 +1148,21 @@
         "zinc": 2,
         "potassium": 580,
         "imgSrc": null
+      },
+      {
+        "name": "Turkey lasagna & Recess Zero Proof Classic Cosmo",
+        "mealType": "Dinner",
+        "cal": 385,
+        "protein": 28,
+        "carbs": 32,
+        "fat": 14,
+        "fiber": 2,
+        "sodium": 600,
+        "sugar": 0,
+        "satfat": 5,
+        "zinc": 3,
+        "potassium": 420,
+        "imgSrc": null
       }
     ]
   },
