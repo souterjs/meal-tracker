@@ -1180,6 +1180,21 @@
         "zinc": 2,
         "potassium": 580,
         "imgSrc": null
+      },
+      {
+        "name": "McDonald's spicy chicken wraps (1.5), RXBAR PB&J protein bites & popcorn",
+        "mealType": "Lunch",
+        "cal": 870,
+        "protein": 32,
+        "carbs": 84,
+        "fat": 40,
+        "fiber": 4,
+        "sodium": 1100,
+        "sugar": 1,
+        "satfat": 7,
+        "zinc": 2,
+        "potassium": 380,
+        "imgSrc": null
       }
     ]
   },
