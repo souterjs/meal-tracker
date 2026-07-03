@@ -1195,6 +1195,21 @@
         "zinc": 2,
         "potassium": 380,
         "imgSrc": null
+      },
+      {
+        "name": "Thai chicken satay (4 skewers) & shrimp rice paper rolls (4) with peanut sauce",
+        "mealType": "Dinner",
+        "cal": 890,
+        "protein": 64,
+        "carbs": 73,
+        "fat": 38,
+        "fiber": 5,
+        "sodium": 950,
+        "sugar": 3,
+        "satfat": 5,
+        "zinc": 3,
+        "potassium": 720,
+        "imgSrc": null
       }
     ]
   },
