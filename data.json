@@ -1164,6 +1164,23 @@
         "potassium": 420,
         "imgSrc": null
       }
+    ],
+    "2026-6-3": [
+      {
+        "name": "Cottage cheese, blueberries, walnuts, whey protein, creatine & oat milk",
+        "mealType": "Breakfast",
+        "cal": 661,
+        "protein": 56,
+        "carbs": 44,
+        "fat": 30,
+        "fiber": 6,
+        "sodium": 350,
+        "sugar": 0,
+        "satfat": 3,
+        "zinc": 2,
+        "potassium": 580,
+        "imgSrc": null
+      }
     ]
   },
   "mt_labs": [
