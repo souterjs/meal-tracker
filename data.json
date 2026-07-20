@@ -1243,6 +1243,23 @@
         "potassium": 80,
         "imgSrc": null
       }
+    ],
+    "2026-6-20": [
+      {
+        "name": "Steel cut oats with milk, blueberries & whipped cream",
+        "mealType": "Breakfast",
+        "cal": 530,
+        "protein": 12,
+        "carbs": 61,
+        "fat": 27,
+        "fiber": 8,
+        "sodium": 60,
+        "sugar": 4,
+        "satfat": 15,
+        "zinc": 1,
+        "potassium": 420,
+        "imgSrc": null
+      }
     ]
   },
   "mt_labs": [
