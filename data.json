@@ -1259,6 +1259,21 @@
         "zinc": 1,
         "potassium": 420,
         "imgSrc": null
+      },
+      {
+        "name": "Chinese chicken salad (Sunday's Best, SLC airport) & fresh grapefruit juice",
+        "mealType": "Lunch",
+        "cal": 620,
+        "protein": 36,
+        "carbs": 62,
+        "fat": 24,
+        "fiber": 4,
+        "sodium": 650,
+        "sugar": 9,
+        "satfat": 3,
+        "zinc": 2,
+        "potassium": 580,
+        "imgSrc": null
       }
     ]
   },
