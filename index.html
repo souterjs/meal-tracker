@@ -247,7 +247,7 @@ input:focus,select:focus{border-color:var(--color-border-primary)}
       <button class="tab active" onclick="switchTab('log')"><i class="ti ti-pencil"></i> Log</button>
       <button class="tab" onclick="switchTab('plan')"><i class="ti ti-chart-bar"></i> Trends</button>
       <button class="tab" onclick="switchTab('labs')"><i class="ti ti-sparkles"></i> Labs</button>
-      <button class="tab" onclick="switchTab('chat')"><i class="ti ti-message-circle"></i> Chat</button>
+
     </div>
     <button class="cog-btn" onclick="toggleSettings()" aria-label="Settings"><i class="ti ti-settings" style="font-size:18px"></i></button>
   </div>
@@ -294,14 +294,6 @@ input:focus,select:focus{border-color:var(--color-border-primary)}
     <div id="dashboard-content"></div>
   </div>
 
-  <div id="tab-chat" class="section">
-    <div id="chat-messages" style="display:flex;flex-direction:column;gap:10px;margin-bottom:1rem;min-height:200px"></div>
-    <div style="display:flex;gap:8px;align-items:flex-end">
-      <textarea id="chat-input" placeholder="Log a meal, ask a nutrition question..." style="flex:1;height:72px;resize:none;background:var(--color-background-primary);color:var(--color-text-primary);border:0.5px solid var(--color-border-secondary);border-radius:var(--border-radius-md);padding:8px 10px;outline:none;font-family:var(--font-sans);font-size:13px;line-height:1.4" onkeydown="if(event.key==='Enter'&&!event.shiftKey){event.preventDefault();sendChat();}"></textarea>
-      <button onclick="sendChat()" style="background:var(--color-text-primary);color:var(--color-background-primary);border:none;border-radius:var(--border-radius-md);padding:10px 12px;cursor:pointer;flex-shrink:0;height:40px;display:flex;align-items:center"><i class="ti ti-send" style="font-size:16px"></i></button>
-    </div>
-    <div style="font-size:11px;color:var(--color-text-tertiary);margin-top:6px">Log meals by describing what you ate · Ask nutrition questions · Get recommendations</div>
-  </div>
 
   <div id="tab-labs" class="section">
     <div class="labs-header">
@@ -517,10 +509,10 @@ function saveGhToken(){
 function switchTab(t){
   document.querySelectorAll('.tab').forEach(b=>b.classList.remove('active'));
   document.querySelectorAll('.section').forEach(s=>s.classList.remove('active'));
-  const idx=['log','plan','labs','chat'].indexOf(t);
+  const idx=['log','plan','labs'].indexOf(t);
   document.querySelectorAll('.tab')[idx].classList.add('active');
   document.getElementById('tab-'+t).classList.add('active');
-  if(t==='plan')renderPlan();if(t==='log')renderLog();if(t==='labs')renderLabs();if(t==='chat')initChat();
+  if(t==='plan')renderPlan();if(t==='log')renderLog();if(t==='labs')renderLabs();
 }
 function shiftDay(d){dayOffset+=d;document.getElementById('day-label').textContent=getDayLabel(dayOffset);renderLog();}
 function shiftWeek(d){} // deprecated — replaced by dashboard
