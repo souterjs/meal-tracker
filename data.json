@@ -1274,6 +1274,21 @@
         "zinc": 2,
         "potassium": 580,
         "imgSrc": null
+      },
+      {
+        "name": "Nature's Bakery fig bars (2 packets) & airline pretzels",
+        "mealType": "Snack",
+        "cal": 510,
+        "protein": 9,
+        "carbs": 98,
+        "fat": 11,
+        "fiber": 4,
+        "sodium": 320,
+        "sugar": 28,
+        "satfat": 1,
+        "zinc": 1,
+        "potassium": 240,
+        "imgSrc": null
       }
     ]
   },
