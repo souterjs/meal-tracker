@@ -1289,6 +1289,21 @@
         "zinc": 1,
         "potassium": 240,
         "imgSrc": null
+      },
+      {
+        "name": "Sushi Sake nigiri (14 pieces \u2014 salmon, tuna, shrimp, halibut, eel, crab, octopus) & beer",
+        "mealType": "Dinner",
+        "cal": 850,
+        "protein": 57,
+        "carbs": 117,
+        "fat": 12,
+        "fiber": 2,
+        "sodium": 900,
+        "sugar": 0,
+        "satfat": 2,
+        "zinc": 3,
+        "potassium": 540,
+        "imgSrc": null
       }
     ]
   },
