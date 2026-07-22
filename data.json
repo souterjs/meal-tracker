@@ -1352,6 +1352,23 @@
         "potassium": 980,
         "imgSrc": null
       }
+    ],
+    "2026-6-22": [
+      {
+        "name": "Joe & The Juice Muscle Up shake (16oz)",
+        "mealType": "Breakfast",
+        "cal": 380,
+        "protein": 32,
+        "carbs": 38,
+        "fat": 8,
+        "fiber": 4,
+        "sodium": 220,
+        "sugar": 18,
+        "satfat": 2,
+        "zinc": 1,
+        "potassium": 420,
+        "imgSrc": null
+      }
     ]
   },
   "mt_labs": [
