@@ -1369,6 +1369,53 @@
         "potassium": 420,
         "imgSrc": null
       }
+    ],
+    "2026-6-23": [
+      {
+        "name": "Joe & The Juice Nutty shake",
+        "mealType": "Breakfast",
+        "cal": 522,
+        "protein": 28,
+        "carbs": 53,
+        "fat": 23,
+        "fiber": 4,
+        "sodium": 200,
+        "sugar": 8,
+        "satfat": 2,
+        "zinc": 1,
+        "potassium": 380,
+        "imgSrc": null
+      },
+      {
+        "name": "Just Salad Thai Crunch Chicken + Thai peanut dressing & Skinny Dipped Dark Choc Almonds (1.2oz)",
+        "mealType": "Lunch",
+        "cal": 650,
+        "protein": 36,
+        "carbs": 43,
+        "fat": 30,
+        "fiber": 10,
+        "sodium": 560,
+        "sugar": 10,
+        "satfat": 3,
+        "zinc": 3,
+        "potassium": 780,
+        "imgSrc": null
+      },
+      {
+        "name": "Sushi Maki nigiri (7pc) & cucumber roll with toro & hamachi (no rice)",
+        "mealType": "Dinner",
+        "cal": 420,
+        "protein": 38,
+        "carbs": 58,
+        "fat": 8,
+        "fiber": 2,
+        "sodium": 700,
+        "sugar": 0,
+        "satfat": 2,
+        "zinc": 3,
+        "potassium": 480,
+        "imgSrc": null
+      }
     ]
   },
   "mt_labs": [
