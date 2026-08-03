@@ -1462,6 +1462,21 @@
         "zinc": 1,
         "potassium": 340,
         "imgSrc": null
+      },
+      {
+        "name": "PopCorners Spicy Queso (1oz)",
+        "mealType": "Snack",
+        "cal": 140,
+        "protein": 2,
+        "carbs": 18,
+        "fat": 6,
+        "fiber": 1,
+        "sodium": 150,
+        "sugar": 0,
+        "satfat": 1,
+        "zinc": 0,
+        "potassium": 50,
+        "imgSrc": null
       }
     ]
   },
