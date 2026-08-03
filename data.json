@@ -1447,6 +1447,21 @@
         "zinc": 3,
         "potassium": 820,
         "imgSrc": null
+      },
+      {
+        "name": "The Only Bean Buffalo Roasted Edamame",
+        "mealType": "Snack",
+        "cal": 110,
+        "protein": 11,
+        "carbs": 8,
+        "fat": 3.5,
+        "fiber": 6,
+        "sodium": 180,
+        "sugar": 0,
+        "satfat": 0,
+        "zinc": 1,
+        "potassium": 340,
+        "imgSrc": null
       }
     ]
   },
