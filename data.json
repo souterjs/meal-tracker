@@ -1419,6 +1419,21 @@
     ],
     "2026-7-3": [
       {
+        "name": "Protein shake \u2014 Just Ingredients whey, creatine, almond milk & banana",
+        "mealType": "Breakfast",
+        "cal": 455,
+        "protein": 49,
+        "carbs": 38,
+        "fat": 9,
+        "fiber": 5,
+        "sodium": 180,
+        "sugar": 0,
+        "satfat": 1,
+        "zinc": 1,
+        "potassium": 580,
+        "imgSrc": null
+      },
+      {
         "name": "Just Salad Southwest Crunch + braised chicken, lime vinaigrette & Skinny Dipped Dark Choc Almonds",
         "mealType": "Lunch",
         "cal": 910,
