@@ -1650,6 +1650,21 @@
         "zinc": 2,
         "potassium": 540,
         "imgSrc": null
+      },
+      {
+        "name": "Skinny Dipped Dark Chocolate Almonds (1.2oz)",
+        "mealType": "Snack",
+        "cal": 200,
+        "protein": 7,
+        "carbs": 17,
+        "fat": 14,
+        "fiber": 3,
+        "sodium": 50,
+        "sugar": 10,
+        "satfat": 2,
+        "zinc": 1,
+        "potassium": 200,
+        "imgSrc": null
       }
     ]
   },
