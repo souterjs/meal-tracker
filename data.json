@@ -1635,6 +1635,21 @@
         "zinc": 0,
         "potassium": 120,
         "imgSrc": null
+      },
+      {
+        "name": "Cook Unity Indo Fish Tacos with Spicy Carrot Sambal & Pickled Onions",
+        "mealType": "Dinner",
+        "cal": 930,
+        "protein": 42,
+        "carbs": 165,
+        "fat": 11,
+        "fiber": 4,
+        "sodium": 890,
+        "sugar": 0,
+        "satfat": 1,
+        "zinc": 2,
+        "potassium": 540,
+        "imgSrc": null
       }
     ]
   },
