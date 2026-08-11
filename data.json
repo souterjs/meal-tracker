@@ -1590,6 +1590,51 @@
         "zinc": 1,
         "potassium": 580,
         "imgSrc": null
+      },
+      {
+        "name": "Nigiri sushi (9 pieces)",
+        "mealType": "Lunch",
+        "cal": 540,
+        "protein": 42,
+        "carbs": 81,
+        "fat": 6,
+        "fiber": 2,
+        "sodium": 700,
+        "sugar": 0,
+        "satfat": 1,
+        "zinc": 2,
+        "potassium": 450,
+        "imgSrc": null
+      },
+      {
+        "name": "The Only Bean Buffalo Roasted Edamame",
+        "mealType": "Snack",
+        "cal": 110,
+        "protein": 11,
+        "carbs": 8,
+        "fat": 3.5,
+        "fiber": 6,
+        "sodium": 180,
+        "sugar": 0,
+        "satfat": 0,
+        "zinc": 1,
+        "potassium": 340,
+        "imgSrc": null
+      },
+      {
+        "name": "Arroyo Baking Co. Raspberry Fig Bar (2oz)",
+        "mealType": "Snack",
+        "cal": 190,
+        "protein": 3,
+        "carbs": 40,
+        "fat": 3.5,
+        "fiber": 3,
+        "sodium": 135,
+        "sugar": 20,
+        "satfat": 0.5,
+        "zinc": 0,
+        "potassium": 120,
+        "imgSrc": null
       }
     ]
   },
