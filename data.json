@@ -1478,6 +1478,119 @@
         "potassium": 50,
         "imgSrc": null
       }
+    ],
+    "2026-7-4": [
+      {
+        "name": "Protein shake \u2014 Just Ingredients whey, creatine & banana + Brew Dr. Superberry kombucha",
+        "mealType": "Breakfast",
+        "cal": 460,
+        "protein": 49,
+        "carbs": 49,
+        "fat": 8,
+        "fiber": 4,
+        "sodium": 180,
+        "sugar": 14,
+        "satfat": 1,
+        "zinc": 1,
+        "potassium": 580,
+        "imgSrc": null
+      },
+      {
+        "name": "Just Salad Southwest Crunch + roasted chicken, lime vinaigrette & Issa's Hint of Lime pita chips (2oz)",
+        "mealType": "Lunch",
+        "cal": 920,
+        "protein": 43,
+        "carbs": 98,
+        "fat": 38,
+        "fiber": 15,
+        "sodium": 1350,
+        "sugar": 1,
+        "satfat": 2,
+        "zinc": 3,
+        "potassium": 820,
+        "imgSrc": null
+      }
+    ],
+    "2026-7-6": [
+      {
+        "name": "Protein shake \u2014 Just Ingredients whey, creatine & banana",
+        "mealType": "Breakfast",
+        "cal": 455,
+        "protein": 49,
+        "carbs": 38,
+        "fat": 9,
+        "fiber": 4,
+        "sodium": 180,
+        "sugar": 0,
+        "satfat": 1,
+        "zinc": 1,
+        "potassium": 580,
+        "imgSrc": null
+      }
+    ],
+    "2026-7-8": [
+      {
+        "name": "Stellar Maui Monk pretzels (entire 12oz bag)",
+        "mealType": "Snack",
+        "cal": 1320,
+        "protein": 30,
+        "carbs": 264,
+        "fat": 18,
+        "fiber": 8,
+        "sodium": 2400,
+        "sugar": 12,
+        "satfat": 4,
+        "zinc": 2,
+        "potassium": 400,
+        "imgSrc": null
+      },
+      {
+        "name": "Unreal dark chocolate peanut butter cups (entire 4.2oz bag)",
+        "mealType": "Snack",
+        "cal": 640,
+        "protein": 10,
+        "carbs": 56,
+        "fat": 48,
+        "fiber": 4,
+        "sodium": 240,
+        "sugar": 40,
+        "satfat": 16,
+        "zinc": 1,
+        "potassium": 280,
+        "imgSrc": null
+      },
+      {
+        "name": "Quarter pineapple & 2 cups watermelon",
+        "mealType": "Snack",
+        "cal": 170,
+        "protein": 3,
+        "carbs": 43,
+        "fat": 0,
+        "fiber": 3,
+        "sodium": 5,
+        "sugar": 0,
+        "satfat": 0,
+        "zinc": 0,
+        "potassium": 480,
+        "imgSrc": null
+      }
+    ],
+    "2026-7-11": [
+      {
+        "name": "Protein shake \u2014 Just Ingredients whey, creatine, banana & almond milk",
+        "mealType": "Breakfast",
+        "cal": 430,
+        "protein": 50,
+        "carbs": 34,
+        "fat": 10,
+        "fiber": 4,
+        "sodium": 180,
+        "sugar": 0,
+        "satfat": 1,
+        "zinc": 1,
+        "potassium": 580,
+        "imgSrc": null
+      }
     ]
   },
   "mt_labs": [
