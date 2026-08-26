@@ -1697,6 +1697,21 @@
         "zinc": 2,
         "potassium": 520,
         "imgSrc": null
+      },
+      {
+        "name": "Cook Unity Kimchi Fried Rice with Shrimp & Crunchy Garlic Chili Oil",
+        "mealType": "Dinner",
+        "cal": 790,
+        "protein": 28,
+        "carbs": 98,
+        "fat": 30,
+        "fiber": 4,
+        "sodium": 980,
+        "sugar": 9,
+        "satfat": 5,
+        "zinc": 2,
+        "potassium": 540,
+        "imgSrc": null
       }
     ]
   },
