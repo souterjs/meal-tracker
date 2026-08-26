@@ -1666,6 +1666,38 @@
         "potassium": 200,
         "imgSrc": null
       }
+    ],
+    "2026-7-26": [
+      {
+        "name": "Protein shake \u2014 Just Ingredients whey, almond milk & blueberries",
+        "mealType": "Breakfast",
+        "cal": 450,
+        "protein": 49,
+        "carbs": 27,
+        "fat": 9,
+        "fiber": 6,
+        "sodium": 190,
+        "sugar": 0,
+        "satfat": 1,
+        "zinc": 1,
+        "potassium": 480,
+        "imgSrc": null
+      },
+      {
+        "name": "Sushi Maki Mango Dragon Burrito with extra avocado & extra yellowtail",
+        "mealType": "Lunch",
+        "cal": 890,
+        "protein": 30,
+        "carbs": 95,
+        "fat": 40,
+        "fiber": 4,
+        "sodium": 1100,
+        "sugar": 18,
+        "satfat": 5,
+        "zinc": 2,
+        "potassium": 520,
+        "imgSrc": null
+      }
     ]
   },
   "mt_labs": [
